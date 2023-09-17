@@ -29,11 +29,11 @@
                         modalBody.innerHTML=`
                         <div class="btn-footer">
                             <a href="${href3}" target="_blank">
-                                <button style="background: #37ac6f !important;" class="btn btn-set btn-paypal">Pay with Card</button>
+                                <button style="background: #37ac6f !important;" class="btn btn-set btn-paypal">GiftCard / Steam Skin</button>
                             </a>
 
                             <a href="${href4}" target="_blank">
-                            <button style = "background: #009cde !important;" class="btn btn-set btn-paypal">Pay with Paypal</button> 
+                            <button style = "background: #009cde !important;" class="btn btn-set btn-paypal">PayPal, Card and Crypto</button> 
                         </a>
 
                         <button id="cancelModalBtn" class="btn btn-secondary" onclick="closeModal()">Close</button>
